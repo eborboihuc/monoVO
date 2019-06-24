@@ -3,8 +3,8 @@
 **Keywords:** FAST Feature Detection, LK Feature Tracking, Five-Point Motion Estimation
 
 <p float="left">
-  <img src="img/map_07_gt.png" width="100" />
-  <img src="img/map_07_no_gt.png" width="100" />
+  <img src="img/map_07_gt.png" width="49%" />
+  <img src="img/map_07_no_gt.png" width="49%" />
 </p>
 
 
